@@ -1,1 +1,1 @@
-# bridging
+# bridging resources
