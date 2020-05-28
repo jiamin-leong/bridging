@@ -4,3 +4,4 @@ Bridging Python Deck: https://docs.google.com/presentation/d/14Sjscv6vSUW9_ePqTQ
 
 
 
+![alt text](https://github.com/jiamin-leong/bridging/what_is_jupyter_notebook.png?raw=true)
