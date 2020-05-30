@@ -1,4 +1,4 @@
-# bridging resources
+# Bridging Resources
 If you're looking to dip your toes into Python programming, you're at the right place!
 
 ## Getting a quick overview on Python concepts
