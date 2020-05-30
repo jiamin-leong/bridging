@@ -1,4 +1,6 @@
 # bridging resources
+Getting a quick overview on Python concepts and use cases
+
 How to get Started: https://tinyurl.com/bridging-python
 
 ![What is Jupyter Notebook?](https://github.com/jiamin-leong/bridging/blob/master/what_is_jupyter_notebook.png)
